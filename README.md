@@ -37,12 +37,12 @@ It was trained on over **27,000 movies** and **20 million user ratings**, using:
 
 ```mermaid
 graph LR
-A[User Input] --> B[Normalized Title Matching]
-B --> C{Hybrid Recommendation Engine}
-C --> D[Collaborative Filtering (KNN)]
-C --> E[Content-Based Filtering (Cosine Similarity)]
-D --> F[Weighted Recommendations]
-E --> F
+    A[User Input] --> B(Title Matching)
+    B --> C{Hybrid Engine}
+    C --> D[KNN]
+    C --> E[Cosine Sim]
+    D --> F[Recommendations]
+    E --> F
 ```
 ## 📊 Model Performance
 

@@ -106,9 +106,9 @@ streamlit run Movei_rec_app.py
 
 ## 📫 Let’s Connect
 
-- 🔗 LinkedIn  
-- 🌐 Portfolio  
-- 📧 your.email@example.com  
+- 🔗 LinkedIn : www.linkedin.com/in/mohammad-umar-9127162b8
+- 🌐 Portfolio : https://github.com/UmarTests
+- 📧 umar.test.49@gmail.com 
 
 ---
 

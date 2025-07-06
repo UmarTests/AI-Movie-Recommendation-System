@@ -43,7 +43,6 @@ C --> D[Collaborative Filtering (KNN)]
 C --> E[Content-Based Filtering (Cosine Similarity)]
 D --> F[Weighted Recommendations]
 E --> F
-
 ```
 ## 📊 Model Performance
 
